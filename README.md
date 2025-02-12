@@ -1,5 +1,7 @@
 # Waveform Academy
 
+![Waveform Academy Banner](https://yt3.googleusercontent.com/BqGhcdsjaWOlNWaVWnYcMnhY7Hj9xd2QqA4wcek-UKTht3zTCh-GgLZHuVQMdj-zoD_dpMw2=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
 Welcome to the **Waveform Academy** GitHub repository! 🚀  
 
 This repository contains **MATLAB code** and resources accompanying the tutorials from the **Waveform Academy** YouTube channel. If you're interested in **Digital Signal Processing (DSP)**, **wireless communication**, and **5G NR waveform analysis**, you've come to the right place!  
