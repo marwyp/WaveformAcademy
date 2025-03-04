@@ -18,6 +18,7 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 📁 WaveformAcademy
 ├── 📄 README.md (This file)
 ├── 📁 DigitalModulations/
+│ ├── DemoDigitalModulations.m
 │ ├── DemoPSK.m
 │ ├── DemoQAM.m
 ```
