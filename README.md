@@ -23,6 +23,8 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 │ ├── DemoQAM.m
 ├── 📁 OFDM/
 │ ├── DemoOFDM.m
+├── 📁 SignalProcessingFundamentals/
+│ ├── DemoDFT.m
 ```
 ## 🔧 Getting Started  
 1. Clone this repository:  
