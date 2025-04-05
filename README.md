@@ -26,6 +26,7 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 │ ├── DemoOFDMCyclicPrefix.m
 │ ├── DemoOFDMGrid.m
 ├── 📁 SignalProcessingFundamentals/
+│ ├── DemoAliasing.m
 │ ├── DemoDFT.m
 ```
 ## 🔧 Getting Started  
