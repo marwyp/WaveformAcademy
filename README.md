@@ -9,7 +9,6 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 ## 📌 Topics Covered  
 - **Digital Modulation Techniques** – PSK, QAM, FSK, etc.  
 - **Multiplexing Methods** – TDMA, FDMA, OFDM  
-- **5G NR Waveform Analysis** – SSB, PSS, SSS, MIB, PDCCH, PDSCH  
 - **Wireless Communication & SDR** – Understanding modern wireless systems  
 - **MATLAB Signal Processing** – Hands-on coding examples
 
@@ -29,6 +28,7 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 │ ├── DemoAliasing.m
 │ ├── DemoCorrelation.m
 │ ├── DemoDFT.m
+│ ├── DemoInterpolation.m
 ```
 ## 🔧 Getting Started  
 1. Clone this repository:  
