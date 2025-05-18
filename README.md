@@ -26,6 +26,7 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 │ ├── DemoOFDMGrid.m
 ├── 📁 SignalProcessingFundamentals/
 │ ├── DemoAliasing.m
+│ ├── DemoConvolution.m
 │ ├── DemoCorrelation.m
 │ ├── DemoDFT.m
 │ ├── DemoInterpolation.m
