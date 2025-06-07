@@ -21,7 +21,12 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 │ ├── DemoPSK.m
 │ ├── DemoQAM.m
 ├── 📁 OFDM/
+│ ├── 📁 +utils/
+│ │ ├── bits2text.m
+│ │ ├── repeat_bits.m
+│ │ ├── text2bits.m
 │ ├── DemoChannelEstim.m
+│ ├── DemoMIMO.m
 │ ├── DemoOFDM.m
 │ ├── DemoOFDMCyclicPrefix.m
 │ ├── DemoOFDMGrid.m
