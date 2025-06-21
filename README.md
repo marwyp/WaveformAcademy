@@ -16,6 +16,10 @@ This repository contains **MATLAB code** and resources accompanying the tutorial
 ```
 📁 WaveformAcademy
 ├── 📄 README.md (This file)
+├── 📁 5gNewRadio/
+│ ├── 📁 +transmitter/
+│ │ ├── config.m
+│ ├── NrTransmitter.m
 ├── 📁 DigitalModulations/
 │ ├── DemoDigitalModulations.m
 │ ├── DemoPSK.m
